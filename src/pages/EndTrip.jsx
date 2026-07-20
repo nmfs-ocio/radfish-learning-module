@@ -1,6 +1,6 @@
 import "../index.css";
 import React, { useState, useEffect } from "react";
-import { useApplication } from "@nmfs-radfish/react-radfish";
+import { useApplication } from "@nmfs-ocio/react-radfish";
 import {
   Button,
   Form,

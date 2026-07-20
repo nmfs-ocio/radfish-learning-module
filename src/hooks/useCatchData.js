@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { useApplication } from "@nmfs-radfish/react-radfish";
+import { useApplication } from "@nmfs-ocio/react-radfish";
 import { STORE_NAMES, COLLECTION_NAMES } from "../utils";
 
 /**
