@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from "react";
-import { useApplication } from "@nmfs-radfish/react-radfish";
+import { useApplication } from "@nmfs-ocio/react-radfish";
 import { formatToYYYYMMDD, STORE_NAMES, COLLECTION_NAMES } from "../utils";
 
 /**
